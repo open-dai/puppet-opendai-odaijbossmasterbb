@@ -1,0 +1,10 @@
+name 'opendai-odaijbossMaster'
+version '1.0.0'
+
+author 'Luca Gioppo'
+license ''
+project_page ''
+source ''
+summary ''
+description ''
+dependency 'Luca/jbossas', '==1.0.0'

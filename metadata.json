@@ -1,0 +1,17 @@
+{
+  "name": "opendai-odaijbossMaster",
+  "version": "1.0.0",
+  "summary": "",
+  "author": "Luca Gioppo",
+  "description": "",
+  "dependencies": [
+    {
+      "name": "Luca/jbossas"
+    }
+  ],
+  "types": [],
+  "checksums": {},
+  "source": "",
+  "project_page": "",
+  "license": ""
+}
