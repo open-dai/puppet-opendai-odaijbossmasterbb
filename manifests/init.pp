@@ -320,7 +320,7 @@ class odaijbossmasterbb (
 
   exec { "geodata_ownership":
     command => "/bin/chown ${jbossas::params::jboss_group}:${jbossas::params::jboss_group} $geodata",
-    require => Anchor['odaijbossmaster:nfs'],
+    require => Anchor['odaijbossmasterbb:nfs'],
   }
 
   # need to add the geodata dir from the cli
